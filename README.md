@@ -10,7 +10,7 @@ When provided with the City, Day of Week and Month for the Divvy bikeshare data,
 Run the bikeshare.py on a python interpreter with the necessary data to see the results.
 
 ### Files Used
-bikeshare.py
+bikeshare.py \n
 chicago.csv
 newyork.csv
 washington.csv
