@@ -1,15 +1,12 @@
-### Date created
-Include the date you created this project and README file.
+March 10 2019
 
-### Project Title
-Replace the Project Title
+Bikeshare Analytics
 
-### Description
-Describe what your project is about and what it does
+When provided with the City, Day of Week and Month for the Divvy bikeshare data, this will return certain analytics of how th ebike sharing patterns are for a given set of data
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+bikeshare.py
+chicago.csv
+newyork.csv
+washington.csv
+README.md
+.gitignore
