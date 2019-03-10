@@ -10,13 +10,13 @@ When provided with the City, Day of Week and Month for the Divvy bikeshare data,
 Run the bikeshare.py on a python interpreter with the necessary data to see the results.
 
 ### Files Used
-bikeshare.py \n
-chicago.csv
-newyork.csv
-washington.csv
-README.md
+bikeshare.py,
+chicago.csv,
+newyork.csv,
+washington.csv,
+README.md,
 .gitignore
 
 ### Credits
-Udacity Intro to Data Science Course
+Udacity Intro to Data Science Course, 
 Intro to Version Control at Udacity
