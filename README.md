@@ -19,3 +19,4 @@ README.md
 
 #Credits
 Udacity Intro to Data Science Course
+Intro to Version Control at Udacity
